@@ -1,5 +1,8 @@
 package com.java8.streams;
 
+import com.java8.model.Employee;
+import com.java8.model.EmployeeList;
+
 import java.util.Comparator;
 import java.util.DoubleSummaryStatistics;
 import java.util.List;

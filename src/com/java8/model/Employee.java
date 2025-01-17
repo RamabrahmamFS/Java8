@@ -1,4 +1,4 @@
-package com.java8.streams;
+package com.java8.model;
 
 public class Employee {
     int id;
